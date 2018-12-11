@@ -1,0 +1,19 @@
+applypatch-msg.sample    
+pre-push.sample
+commit-msg.sample           
+pre-rebase.sample
+post-update.sample          
+prepare-commit-msg.sample
+pre-applypatch.sample       
+update.sample
+pre-commit.sample
+
+
+
+常用的：
+    pre-commit
+    prepare-commit-msg
+    commit-msg
+    post-commit
+    post-checkout
+    pre-rebase
